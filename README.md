@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Bike_share_1st_dashboard/Dashboard1)
 
-A refinedversion of the raw data icluded with pivot tables, charts and prepared steps are can be viewed
+A refinedversion of the raw data icluded with pivot tables, charts and prepared steps are can be viewed [here]()
   
 
 
