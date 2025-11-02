@@ -3,5 +3,11 @@ Cyclistic, established in 2016, launched a successful bike-share offering. Since
 
 The company has significant amounts of data on its geotracked bicycles that are locked into a network of 692 stations across Chicago. 
 
+Insights and recommendations are provided on the following key areas:
+
+* **Activity Trends Analysis:** Evaluation of historical activity patterns, highlighting the average of activity within the hours of the day, days of the week and months of the year. 
+
+
+
 ![image alt](https://github.com/smouzakitis83/Cyclistic-bike-share-analysis/blob/main/Screenshot%202025-10-25%20082913.png?raw=true)
 
