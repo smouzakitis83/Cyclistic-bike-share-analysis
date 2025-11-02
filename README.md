@@ -1,6 +1,6 @@
 # Project Background
 Cyclistic has significant amounts of data thanks to there network.
-Founded in 2016, the cokpany operates a large bike-share system in Chicago with 5,824 geotracked bikes across 692 stations, generating extensive data.
+Founded in 2016, the company operates a large bike-share system in Chicago with 5,824 geotracked bikes across 692 stations, generating extensive data.
 
 Insights and recommendations are provided on the following key areas:
 
