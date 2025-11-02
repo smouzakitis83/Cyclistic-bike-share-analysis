@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Bike_share_1st_dashboard/Dashboard1)
 
-A refinedversion of the raw data icluded with pivot tables, charts and prepared steps are can be viewed [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsmouzakitis83%2FCyclistic-bike-share-analysis%2Frefs%2Fheads%2Fmain%2FBike_share_Clean_and_Prepare_steps.xlsx&wdOrigin=BROWSELINK)
+A refined version of the raw data icluded with pivot tables, charts and prepared steps can be viewed [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsmouzakitis83%2FCyclistic-bike-share-analysis%2Frefs%2Fheads%2Fmain%2FBike_share_Clean_and_Prepare_steps.xlsx&wdOrigin=BROWSELINK)
 
   # Executive Summary
 My analysis indicates that members exhibit peak activity within a 30-minute timeframe. We also observe significant activity spikes corresponding to average hourly, daily, and monthly intervals. The high volume of traffic during business hours suggests that membership offers a clear benefit to customers commuting to work. Therefore, advertising campaigns targeting the months of May through July would be advantageous for the company. Strategically placing advertisements in locations where current members are employed could effectively encourage their colleagues to subscribe to memberships. Additionally, offering a weekend pass could attract casual riders who may not be interested in a long-term commitment.
