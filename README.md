@@ -1,7 +1,6 @@
 # Project Background
-Cyclistic, established in 2016, launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago.
-
-The company has significant amounts of data on its geotracked bicycles that are locked into a network of 692 stations across Chicago. 
+Cyclistic has significant amounts of data thanks to there network.
+Founded in 2016, the cokpany operates a large bike-share system in Chicago with 5,824 geotracked bikes across 692 stations, generating extensive data.
 
 Insights and recommendations are provided on the following key areas:
 
