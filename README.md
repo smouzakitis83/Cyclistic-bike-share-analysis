@@ -5,7 +5,12 @@ The company has significant amounts of data on its geotracked bicycles that are 
 
 Insights and recommendations are provided on the following key areas:
 
-* **Activity Trends Analysis:** Evaluation of historical activity patterns, highlighting the average of activity within the hours of the day, days of the week and months of the year. 
+* **Activity Trends Analysis:** Evaluation of historical activity patterns, highlighting the average of activity within the hours of the day, days of the week and months of the year.
+*  **Product Level Performance:** A analysis of Cyclistics bike product lines.
+*  **Advertisement Strategy Recommendations**
+
+An interactive Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Bike_share_1st_dashboard/Dashboard1)
+  
 
 
 
